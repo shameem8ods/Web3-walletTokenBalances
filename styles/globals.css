@@ -15,10 +15,9 @@ a {
 * {
   box-sizing: border-box;
 }
-.wrap{
-  max-width: 500px;
-  margin: 50px auto;
-  text-align: center;
+.wrap1{
+  background: radial-gradient(#565392, #000000f2);
+  height: 100vh;
 }
 .input{
   margin-bottom: 30px;
